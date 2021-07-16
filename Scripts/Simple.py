@@ -12,6 +12,8 @@ class Simple:
 simple_object = Simple(20)
 simple_object.Mult()
 
+print("Mr.Nimbes is the goat")
+
 
 
 
