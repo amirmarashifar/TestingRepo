@@ -5,5 +5,9 @@ class driver:
     print(y)
     
 #this simeple yet elegant program will show you the best driver in formula 1 history
+    def points(x):
+        return numPoints
+    
+    
 
 
