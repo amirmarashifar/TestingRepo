@@ -1,6 +1,12 @@
 class driver: 
     x = "Danny ric is the goat"
     y = "Lewis Hamilton is not the goat"
+    tv = "Max Verstappen will hopefully win this year"
+    LHam = "Lewis Hamilton"
+    DRic = "Daniel Riccardo"
+    GrandPrixWinner = true
+
+    
     print(x)
     print(y)
     
@@ -12,6 +18,14 @@ class driver:
         print("Lewis Hamilton should be banned from f1")
 
     Hamilton()
+    
+    def willWin(): 
+        numpoints = 0
+        if numpoints == 256: 
+            return GrandPrixWinner
+        else: 
+            return LHam
+    
     
 
 
